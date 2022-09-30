@@ -1,1 +1,1 @@
-Hello This is deploy file
+Hello This file contains the deployment script
